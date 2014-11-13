@@ -1,5 +1,29 @@
 /* Your Website Styles */
 
+body {
+	font-family: 'Oswald', sans-serif;
+	background: url("../img/gun_metal.png");
+}
+
+div {
+	background: url("../img/gun_metal.png");
+}
+
+h1 {
+	font-family: 'Bangers', cursive;
+	font-size: 7em;
+	text-align: center;
+	color: #FFD000;
+}
+
+p {
+	color: #545454;
+}
+
+h3 {
+	font-family: 'Bangers', cursive;
+	color: #FFD000;
+}
 
 /* Show Grid */
 .showgrid {
